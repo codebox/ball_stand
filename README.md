@@ -17,4 +17,3 @@ The 'stl_files' folder contains pre-rendered STL files suitable for 3D printing,
 * [90mm](https://github.com/codebox/ball_stand/blob/main/stl_files/ball_stand_90_mm.stl)
 
 
-
