@@ -14,5 +14,5 @@ The 'stl_files' folder contains pre-rendered STL files suitable for 3D printing,
 * [85mm]()
 * [90mm]()
 
-Maybe this will be useful to someone - I've made a 3D-printable model of a ball-stand, perfect for displaying acrylic contact juggling balls. I got a few printed up and they work great, so I'm open sourcing the design in case anyone else wants it. There are ready-made STL files for most of the common contact-ball sizes, and the source code is available as well for the technically inclined. It's all online here: https://github.com/codebox/ball_stand
+
 
